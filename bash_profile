@@ -5,7 +5,6 @@ export NVM_DIR="$HOME/.nvm"
 export PATH=$PATH:/Users/carltonjoseph/Library/Android/sdk/platform-tools
 export PATH=$PATH:/Users/carltonjoseph/cj/configsNscriptsMac/javascript/scripts
 
-
 alias ll='ls -l'
 alias la='ls -a'
 alias simulator='open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app'
